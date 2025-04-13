@@ -3,13 +3,15 @@ import pickle
 import pandas as pd
 
 teams = ['Sunrisers Hyderabad',
- 'Mumbai Indians',
- 'Royal Challengers Bangalore',
- 'Kolkata Knight Riders',
- 'Kings XI Punjab',
- 'Chennai Super Kings',
- 'Rajasthan Royals',
- 'Delhi Capitals']
+    'Mumbai Indians',
+    'Royal Challengers Bengaluru',
+    'Punjab Kings',
+    'Chennai Super Kings',
+    'Rajasthan Royals',
+    'Delhi Capitals',
+    'Gujarat Titans',
+    'Lucknow Super Giants',
+    'Kolkata Knight Riders']
 
 cities = ['Hyderabad', 'Bangalore', 'Mumbai', 'Indore', 'Kolkata', 'Delhi',
        'Chandigarh', 'Jaipur', 'Chennai', 'Cape Town', 'Port Elizabeth',
