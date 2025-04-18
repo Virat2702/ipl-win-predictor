@@ -13,12 +13,13 @@ teams = ['Sunrisers Hyderabad',
     'Lucknow Super Giants',
     'Kolkata Knight Riders']
 
-cities = ['Hyderabad', 'Bangalore', 'Mumbai', 'Indore', 'Kolkata', 'Delhi',
-       'Chandigarh', 'Jaipur', 'Chennai', 'Cape Town', 'Port Elizabeth',
-       'Durban', 'Centurion', 'East London', 'Johannesburg', 'Kimberley',
+cities = ['Bangalore', 'Chandigarh', 'Delhi', 'Mumbai', 'Kolkata', 'Jaipur',
+       'Hyderabad', 'Chennai', 'Cape Town', 'Port Elizabeth', 'Durban',
+       'Centurion', 'East London', 'Johannesburg', 'Kimberley',
        'Bloemfontein', 'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala',
        'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Abu Dhabi',
-       'Sharjah', 'Mohali', 'Bengaluru']
+       'Rajkot', 'Kanpur', 'Bengaluru', 'Indore', 'Dubai', 'Sharjah',
+       'Navi Mumbai', 'Lucknow', 'Guwahati', 'Mohali']
 
 pipe = pickle.load(open('pipe.pkl','rb'))
 st.title('IPL Win Predictor')
